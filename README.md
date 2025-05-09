@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend Developer (Python + Java) | Computer Vision Engineer | Embedded Systems Specialist</h3>
 
-https://github-profile-trophy.vercel.app/?username=ymlIl&theme=darkhub
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ymlil&label=Profile%20views&color=0e75b6&style=flat" alt="ymlil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ymlil" alt="ymlil" /></a> </p>
 
